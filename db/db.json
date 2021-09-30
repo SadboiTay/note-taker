@@ -1,20 +1,14 @@
-{
-  "note": [
-    {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "Test Title 2",
-      "text": "Test text 2"
-    },
-    {
-      "title": "Tay",
-      "text": "Cooper is my kid."
-    },
-    {
-      "title": "Kaikee",
-      "text": "Fergus is her son."
-    }
-  ]
-}
+[
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Test Title 2",
+    "text": "Test text 2"
+  },
+  {
+    "title": "Taylor",
+    "text": "Yacchts"
+  }
+]
