@@ -26,12 +26,13 @@
 
 
   # Built With:
+  * Express.js
+  * Node.js
   * HTML5
   * CSS3
   * JQuery
-  * Express.js
-  * Node.js
-
+  
+  
   # Tests
   No tests have been written for this project
 
