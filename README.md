@@ -2,7 +2,7 @@
   
 
   # Description
-  My first full-stack web application! Note taker can be used to write and save notes via a deployed server. I used Express.js to write the back-end and connect it to the existing front-end. 
+  My first full-stack web application! Note Taker can be used to write and save notes via a deployed server. I used Express.js to write the back-end and connect it to the existing front-end. 
 
   # Table of Contents
   * [Installation](#installation)
