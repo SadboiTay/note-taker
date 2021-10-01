@@ -1,17 +1,12 @@
 [
   {
-    "title": "Hmm",
-    "text": "Hmm",
+    "title": "Test",
+    "text": "A lovely test",
     "id": 1
   },
   {
-    "title": "t",
-    "text": "t",
+    "title": "Test 2",
+    "text": "Another lovely test",
     "id": 2
-  },
-  {
-    "title": "s",
-    "text": "s",
-    "id": 3
   }
 ]
