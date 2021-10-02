@@ -41,6 +41,3 @@
   * GitHub user: SadboiTay
   * https://github.com/SadboiTay
   * Reach me at tg.hakes@gmail.com for additional questions
-  
-https://www.linkedin.com/in/taylor-hakes-7798b2215/
-https://sadboitay.github.io/pro-portfolio/
