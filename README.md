@@ -42,3 +42,4 @@
   * https://github.com/SadboiTay
   * Reach me at tg.hakes@gmail.com for additional questions
   
+https://github.com/SadboiTay/note-taker
